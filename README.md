@@ -8,8 +8,9 @@
  - https://github.com/caseykneale/Sherlock.jl
 
 ### Utilities
- - https://github.com/caseykneale/ImageChipper.jl (unanounced)
  - https://github.com/caseykneale/SigFigs.jl
+ - https://github.com/caseykneale/ImageChipper.jl (unanounced)
+ - https://github.com/caseykneale/ObjectDetectionStats.jl (needs serious work)
  - https://github.com/caseykneale/LockandKeyLookups.jl
 
 ### Humour (not all of life is to be taken completely seriously)

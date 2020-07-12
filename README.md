@@ -1,17 +1,17 @@
 ### Major Projects
 ✨ https://github.com/caseykneale/ChemometricsTools.jl ✨  
-✨ https://github.com/caseykneale/ChemometricsData.jl (unreleased) ✨  
+✨ https://github.com/caseykneale/ChemometricsData.jl (0.10 release in progress) ✨  
 ✨ https://github.com/caseykneale/OpenSMILES.jl ✨  
 
 ### Julia Dev Tools
- - https://github.com/caseykneale/JuliaTutor.jl (unreleased)
+ - https://github.com/caseykneale/JuliaTutor.jl (0.10 release in progress)
  - https://github.com/caseykneale/Sherlock.jl
 
 ### Utilities
  - https://github.com/caseykneale/SigFigs.jl
- - https://github.com/caseykneale/ImageChipper.jl (unanounced)
- - https://github.com/caseykneale/ObjectDetectionStats.jl (needs serious work)
- - https://github.com/caseykneale/LockandKeyLookups.jl
+ - https://github.com/caseykneale/ImageChipper.jl (Performance boosts would be helpful)
+ - https://github.com/caseykneale/ObjectDetectionStats.jl (Needs some serious work)
+ - https://github.com/caseykneale/LockandKeyLookups.jl (Performance boosts needed)
 
 ### Humour
 😄 https://github.com/caseykneale/VIMKiller 😄  

@@ -13,7 +13,7 @@
  - https://github.com/caseykneale/ObjectDetectionStats.jl (needs serious work)
  - https://github.com/caseykneale/LockandKeyLookups.jl
 
-### Humour (not all of life is to be taken completely seriously)
+### Humour
 😄 https://github.com/caseykneale/VIMKiller 😄  
 
 <!--

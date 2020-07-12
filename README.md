@@ -5,7 +5,7 @@
 
 ### Julia Dev Tools
  - https://github.com/caseykneale/JuliaTutor.jl (0.10 release in progress)
- - https://github.com/caseykneale/Sherlock.jl
+ - https://github.com/caseykneale/Sherlock.jl (Better graph display algorithm needed)
 
 ### Utilities
  - https://github.com/caseykneale/SigFigs.jl

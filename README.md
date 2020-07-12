@@ -1,7 +1,7 @@
 ### Major Projects
-✨ https://github.com/caseykneale/ChemometricsTools.jl ✨
-✨ https://github.com/caseykneale/ChemometricsData.jl (unreleased) ✨
-✨ https://github.com/caseykneale/OpenSMILES.jl ✨
+✨ https://github.com/caseykneale/ChemometricsTools.jl ✨  
+✨ https://github.com/caseykneale/ChemometricsData.jl (unreleased) ✨  
+✨ https://github.com/caseykneale/OpenSMILES.jl ✨  
 
 ### Julia Dev Tools
  - https://github.com/caseykneale/JuliaTutor.jl (unreleased)
@@ -13,7 +13,7 @@
  - https://github.com/caseykneale/LockandKeyLookups.jl
 
 ### Humour (not all of life is to be taken completely seriously)
-😄 https://github.com/caseykneale/VIMKiller 😄
+😄 https://github.com/caseykneale/VIMKiller 😄  
 
 <!--
 **caseykneale/caseykneale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

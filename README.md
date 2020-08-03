@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**This is hobbyist work - none of these projects are endorsed, owned, maintainted, or otherwise by my current/former employers**

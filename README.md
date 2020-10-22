@@ -1,6 +1,6 @@
 ### Major Projects
 ✨ https://github.com/caseykneale/ChemometricsTools.jl ✨  
-✨ https://github.com/caseykneale/ChemometricsData.jl (0.10 release in progress) ✨  
+✨ https://github.com/caseykneale/ChemometricsData.jl (0.10 release) ✨  
 ✨ https://github.com/caseykneale/OpenSMILES.jl ✨  
 
 ### Julia Dev Tools

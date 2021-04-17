@@ -2,9 +2,10 @@
 ✨ https://github.com/caseykneale/ChemometricsTools.jl (*released*)✨  
 ✨ https://github.com/caseykneale/ChemometricsData.jl (*released*) ✨  
 ✨ https://github.com/caseykneale/OpenSMILES.jl (*released*)✨  
-✨ https://github.com/caseykneale/ExtremeVertexDesigns.jl (*WIP*)✨  
+✨ https://github.com/caseykneale/ExtremeVertexDesigns.jl (*Work in Progress*)✨  
 
 ### Julia Dev Tools
+ - https://github.com/caseykneale/DeltaSugar.jl (Work in Progress)
  - https://github.com/caseykneale/JuliaTutor.jl (0.10 release in progress)
  - https://github.com/caseykneale/Sherlock.jl (Better graph display algorithm needed)
 

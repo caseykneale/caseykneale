@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 -->
 
 **This is hobbyist work - none of these projects are endorsed, owned, maintainted, or otherwise by my current/former employers**
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=caseykneale)](https://github.com/anuraghazra/github-readme-stats)

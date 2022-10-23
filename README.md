@@ -1,8 +1,15 @@
-### Major Projects
-✨ https://github.com/caseykneale/ChemometricsTools.jl (*released*)✨  
-✨ https://github.com/caseykneale/ChemometricsData.jl (*released*) ✨  
-✨ https://github.com/caseykneale/OpenSMILES.jl (*released*)✨  
-✨ https://github.com/caseykneale/ExtremeVertexDesigns.jl (*Work in Progress*)✨  
+### Fun CLI Tools
+ - https://github.com/caseykneale/mute : CLI file mutator.
+ - https://github.com/caseykneale/Calcamabob : CLI Calculator.
+
+### Rust Crates
+ - https://github.com/caseykneale/topological_peak_detection
+
+### Old Julia Packages
+ - https://github.com/caseykneale/ChemometricsTools.jl (*released*)
+ - https://github.com/caseykneale/ChemometricsData.jl (*released*)   
+ - https://github.com/caseykneale/OpenSMILES.jl (*released*)
+ - https://github.com/caseykneale/ExtremeVertexDesigns.jl (*Work in Progress*)
 
 ### Julia Dev Tools
  - https://github.com/caseykneale/DeltaSugar.jl (Work in Progress)
@@ -11,9 +18,9 @@
 
 ### Utilities
  - https://github.com/caseykneale/SigFigs.jl
- - https://github.com/caseykneale/ImageChipper.jl (Performance boosts would be helpful)
+ - https://github.com/caseykneale/ImageChipper.jl 
  - https://github.com/caseykneale/ObjectDetectionStats.jl (Needs some serious work)
- - https://github.com/caseykneale/LockandKeyLookups.jl (Performance boosts needed)
+ - https://github.com/caseykneale/LockandKeyLookups.jl 
 
 ### Humour
 😄 https://github.com/caseykneale/VIMKiller 😄  

@@ -1,9 +1,9 @@
 ### Fun CLI Tools
- - [/caseykneale/mute](Mute) : Configuration file mutator.
- - [https://github.com/caseykneale/Calcamabob](Calcamabob) : Calculator.
+ - [Mute](https://github.com/caseykneale/mute) : Configuration file mutator.
+ - [Calcamabob](https://github.com/caseykneale/Calcamabob) : Calculator.
 
 ### Rust Crates
- - [https://github.com/caseykneale/topological_peak_detection](topological_peak_detection)
+ - [topological_peak_detection](https://github.com/caseykneale/topological_peak_detection)
 
 ### Old Julia Packages
  - [https://github.com/caseykneale/ChemometricsTools.jl](ChemometricsTools) (*released*)

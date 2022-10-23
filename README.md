@@ -1,6 +1,6 @@
 ### Fun CLI Tools
- - https://github.com/caseykneale/mute : CLI file mutator.
- - https://github.com/caseykneale/Calcamabob : CLI Calculator.
+ - https://github.com/caseykneale/mute : config file mutator.
+ - https://github.com/caseykneale/Calcamabob : Calculator.
 
 ### Rust Crates
  - https://github.com/caseykneale/topological_peak_detection

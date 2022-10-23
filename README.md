@@ -1,29 +1,29 @@
 ### Fun CLI Tools
- - https://github.com/caseykneale/mute : config file mutator.
- - https://github.com/caseykneale/Calcamabob : Calculator.
+ - [https://github.com/caseykneale/mute](Mute) : config file mutator.
+ - [https://github.com/caseykneale/Calcamabob](Calcamabob) : Calculator.
 
 ### Rust Crates
- - https://github.com/caseykneale/topological_peak_detection
+ - [https://github.com/caseykneale/topological_peak_detection](topological_peak_detection)
 
 ### Old Julia Packages
- - https://github.com/caseykneale/ChemometricsTools.jl (*released*)
- - https://github.com/caseykneale/ChemometricsData.jl (*released*)   
- - https://github.com/caseykneale/OpenSMILES.jl (*released*)
- - https://github.com/caseykneale/ExtremeVertexDesigns.jl (*Work in Progress*)
+ - [https://github.com/caseykneale/ChemometricsTools.jl](ChemometricsTools) (*released*)
+ - [https://github.com/caseykneale/ChemometricsData.jl](ChemometricsData) (*released*)   
+ - [https://github.com/caseykneale/OpenSMILES.jl](OpenSMILES) (*released*)
+ - [https://github.com/caseykneale/ExtremeVertexDesigns.jl](ExtremeVertexDesigns) (*Work in Progress*)
 
 ### Julia Dev Tools
- - https://github.com/caseykneale/DeltaSugar.jl (Work in Progress)
- - https://github.com/caseykneale/JuliaTutor.jl (0.10 release in progress)
- - https://github.com/caseykneale/Sherlock.jl (Better graph display algorithm needed)
+ - [https://github.com/caseykneale/DeltaSugar.jl](DeltaSugar) (Work in Progress)
+ - [https://github.com/caseykneale/JuliaTutor.jl](JuliaTutor) (0.10 release in progress)
+ - [https://github.com/caseykneale/Sherlock.jl](Sherlock) (Better graph display algorithm needed)
 
 ### Utilities
- - https://github.com/caseykneale/SigFigs.jl
- - https://github.com/caseykneale/ImageChipper.jl 
- - https://github.com/caseykneale/ObjectDetectionStats.jl (Needs some serious work)
- - https://github.com/caseykneale/LockandKeyLookups.jl 
+ - [https://github.com/caseykneale/SigFigs.jl](SigFigs)
+ - [https://github.com/caseykneale/ImageChipper.jl](ImageChipper) 
+ - [https://github.com/caseykneale/ObjectDetectionStats.jl](ObjectDetectionStats) (Needs some serious work)
+ - [https://github.com/caseykneale/LockandKeyLookups.jl](LockandKeyLookups)
 
 ### Humour
-😄 https://github.com/caseykneale/VIMKiller 😄  
+😄 [https://github.com/caseykneale/VIMKiller](VIMKiller) 😄  
 
 <!--
 **caseykneale/caseykneale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

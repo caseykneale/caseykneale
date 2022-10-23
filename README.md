@@ -1,5 +1,5 @@
 ### Fun CLI Tools
- - [https://github.com/caseykneale/mute](Mute) : Configuration file mutator.
+ - [/caseykneale/mute](Mute) : Configuration file mutator.
  - [https://github.com/caseykneale/Calcamabob](Calcamabob) : Calculator.
 
 ### Rust Crates

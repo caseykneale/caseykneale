@@ -24,7 +24,7 @@
 
 ### Humour
 😄 [VIMKiller](https://github.com/caseykneale/VIMKiller) 😄  
-😄 [Turtle Swarm Optimization] (https://github.com/caseykneale/turtleswarmoptimization)😄  
+😄 [Turtle Swarm Optimization](https://github.com/caseykneale/turtleswarmoptimization)😄  
 <!--
 **caseykneale/caseykneale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

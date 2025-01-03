@@ -4,7 +4,8 @@
 ### Rust Crates
  - [topological_peak_detection](https://github.com/caseykneale/topological_peak_detection)
 
-### Old Julia Packages
+### Julia Packages
+ - [LeastEffortBaseline.jl](https://github.com/caseykneale/LeastEffortBaseline.jl) (*released*)
  - [ChemometricsTools](https://github.com/caseykneale/ChemometricsTools.jl) (*released*)
  - [ChemometricsData](https://github.com/caseykneale/ChemometricsData.jl) (*released*)   
  - [OpenSMILES](https://github.com/caseykneale/OpenSMILES.jl) (*released*)

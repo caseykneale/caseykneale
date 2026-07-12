@@ -1,5 +1,5 @@
 ### Fun CLI Tools
- - [Calcamabob](https://github.com/caseykneale/Calcamabob) : Calculator.
+ - [Calcamabob](https://github.com/caseykneale/Calcamabob) : Basic calculator fun project.
 
 ### Rust Crates
  - [topological_peak_detection](https://github.com/caseykneale/topological_peak_detection)

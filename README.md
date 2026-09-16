@@ -24,9 +24,13 @@
  - [LockandKeyLookups](https://github.com/caseykneale/LockandKeyLookups.jl)
 
 ### Humour
-😄 [VIMKiller Recharged](https://github.com/caseykneale/VIMKillerRecharged) 😄  
-😄 [VIMKiller](https://github.com/caseykneale/VIMKiller) 😄
-😄 [Turtle Swarm Optimization](https://github.com/caseykneale/turtleswarmoptimization)😄  
+😄 [VIMKiller Recharged](https://github.com/caseykneale/VIMKillerRecharged) 😄 
+
+😄 [VIMKiller](https://github.com/caseykneale/VIMKiller) 😄 
+
+😄 [Turtle Swarm Optimization](https://github.com/caseykneale/turtleswarmoptimization)😄 
+
+
 <!--
 **caseykneale/caseykneale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
